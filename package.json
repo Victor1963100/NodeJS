@@ -1,0 +1,17 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "PoC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Petrunin",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.8.1",
+    "eslint": "^8.36.0",
+    "eslint-plugin-react": "^7.32.2",
+    "package-name": "^0.1.0"
+  }
+}
